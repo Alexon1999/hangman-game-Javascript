@@ -1,0 +1,17 @@
+body {
+  background-color: #34495e;
+  color: #fff;
+}
+
+.figure-container {
+  /* fille a color like background */
+  fill: transparent;
+  /* epaisseur de ligne */
+  stroke: #fff;
+  stroke-width: 4px;
+  stroke-linecap: round;
+}
+
+.figure-part {
+  display: none;
+}
